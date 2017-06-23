@@ -31,9 +31,7 @@ Citation
 XG was described in two papers. Please cite one or both as appropriate
 if using this code.
 
-"An Executable Graph Representation for Evolutionary Generative
-Music", James McDermott and Una-May O'Reilly, 2011.
-
+```
 @InProceedings{mcdermott-oreilly-xg,
   author = 		 {James McDermott and Una-May O'Reilly},
   title = 		 {An Executable Graph Representation for Evolutionary
@@ -42,7 +40,6 @@ Music", James McDermott and Una-May O'Reilly, 2011.
   year = 	 {2011},
   address = 	 {Dublin}
 }
-
 @incollection{mcdermott2013evolutionary,
   title={Evolutionary and generative music informs music HCI—and vice versa},
   author={James McDermott and Dylan Sherry and Una-May O'Reilly},
@@ -51,6 +48,7 @@ Music", James McDermott and Una-May O'Reilly, 2011.
   year={2013},
   publisher={Springer}
 }
+```
 
 Description
 -----------
